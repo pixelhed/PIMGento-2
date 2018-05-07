@@ -1,5 +1,5 @@
 {
-  "name": "agencednd/module-pimgento",
+  "name": "pixelhed/module-pimgento",
   "description": "Module Pimgento for Magento 2",
   "require": {
     "php": "^7.0",
